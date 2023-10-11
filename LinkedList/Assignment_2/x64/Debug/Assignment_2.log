@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Assignment_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Single_Linked_List_Functions.cpp
+  Single_Linked_List_Main.cpp
+  Generating Code...
+C:\Users\Carolyn Knapp\source\repos\CS303\LinkedList\Assignment_2\Single_Linked_List_Functions.cpp(81): warning C4715: 'Single_Linked_List::front': not all control paths return a value
+C:\Users\Carolyn Knapp\source\repos\CS303\LinkedList\Assignment_2\Single_Linked_List_Functions.cpp(90): warning C4715: 'Single_Linked_List::back': not all control paths return a value
+  Assignment_2.vcxproj -> C:\Users\Carolyn Knapp\source\repos\CS303\LinkedList\x64\Debug\Assignment_2_Linked_List.exe

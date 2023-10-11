@@ -1,0 +1,8 @@
+﻿  Employee.cpp
+  Employee_Main.cpp
+C:\Users\Carolyn Knapp\source\repos\CS303\Employee\Assignment_2_Employee\Employee_Main.cpp(8,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Carolyn Knapp\source\repos\CS303\Employee\Assignment_2_Employee\Employee_Main.cpp(9,78): warning C4305: 'argument': truncation from 'double' to 'float'
+  NonProfessional.cpp
+  Professional.cpp
+  Generating Code...
+  Assignment_2_Employee.vcxproj -> C:\Users\Carolyn Knapp\source\repos\CS303\Employee\x64\Debug\Assignment_2_Employee.exe
